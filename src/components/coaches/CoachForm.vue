@@ -68,7 +68,7 @@
         <input
           type="checkbox"
           id="career"
-          value="careers"
+          value="career"
           v-model="areas.val"
           @blur="clearValidity('areas')"
         />
